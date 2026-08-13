@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Алёна Рютина](https://up.htmlacademy.ru/htmlcss-individual/3/user/2716163).
-* Наставник: [Екатерина Комнатная] (https://htmlacademy.ru/profile/id215761).
-* Сайт: (https://ryutina-alyona.github.io/2716163-sedona-3/)
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
+* Сайт: https://ryutina-alyona.github.io/2716163-sedona-3/
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
