@@ -1,0 +1,258 @@
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+
+  src: url("../fonts/ptsans-400.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+
+  src: url("../fonts/ptsans-700.woff2") format("woff2");
+  font-display: swap;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 400;
+
+  color: #000000;
+  background-color: #FFFFFF;
+
+}
+
+.button-small {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+
+
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.button-large {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  line-height: 36px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.button-brown {
+  color: #ffffff;
+  background-color: #756157;
+}
+
+.button-blue {
+  color: #ffffff;
+  background-color: #82B3D3;
+}
+
+
+/* Pages */
+
+.page-header {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.navigation-link {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+.main-index {
+  color: #000000;
+  background-color: #ffffff;
+  background-image: url("../images/welcome-sedona.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+
+}
+
+
+
+.advantages,
+.services {
+  text-align: center;
+}
+
+
+.advantages-title,
+.services-title {
+  font-family: "PT Sans", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+
+}
+
+.hotel-search {
+  font-family: "PT Sans", sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.newsletter-index {
+  color: #ffffff;
+  background-color: #82B3D3;
+  font-family: "PT Sans", sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: 400;
+
+  text-align: center;
+
+  background-image: url("../images/subscribe.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+
+
+.footer-contacts-address-phone {
+  font-family: "PT Sans", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 400;
+  color: #000000;
+  text-transform: uppercase;
+  text-decoration-line: none;
+
+}
+
+.title-large {
+
+  font-family: "PT Sans", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subtitle-text {
+  font-family: "PT Sans", sans-serif;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: center;
+}
+
+/* Catalog */
+.filter-catalog-hotels {
+ background-color: #82B3D3;
+  background-image: url("../images/filtr.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.inner-header-title {
+  font-family: "PT Sans", sans-serif;
+  font-size: 60px;
+  line-height: 78x;
+  font-weight: 700;
+  color: #ffffff;
+
+
+}
+
+.breadcrumbs {
+  ont-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  line-height: 21x;
+  font-weight: 400;
+  color: #ffffff;
+
+}
+
+.breadcrumbs-link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.catalog-hotels {
+  font-family: "PT Sans", sans-serif;
+  color: #ffffff;
+
+}
+
+.catalog-filter-title {
+  ont-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  line-height: 24x;
+  font-weight: 700;
+}
+
+.select-hotel-title {
+  text-align: left;
+}
+
+.hotel-card-title {
+  font-family: "PT Sans", sans-serif;
+  font-size: 24px;
+  line-height: 28x;
+  font-weight: 700;
+  color: #000000;
+  text-transform: none;
+
+
+}
+
+.hotel-card-link {
+  text-decoration: none;
+}
+
+.hotel-card-rating {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #000000;
+  text-transform: uppercase;
+
+}
+
+.pagination-link {
+  color: #ffffff;
+  background-color: #82B3D3;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.pagination-current {
+   color: #000000;
+  background-color: #f2f2f2;
+}
+.newsletter-catalog {
+  color: #000000;
+  background-color: #ffffff;
+  font-family: "PT Sans", sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: 400;
+
+  text-align: center;
+
+
+}
